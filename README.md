@@ -45,7 +45,7 @@ It also keeps the record of professors such as their name, id, e-mail, subjects,
           'USER' : '<USER>',
           'PASSWORD' : '<PASS>',
           'HOST' : 'localhost',
-          'PORT' : 8000
+          'PORT' : 3306
           'OPTIONS': {
                   'init_command': 'SET default_storage_engine=INNODB',
                   }
