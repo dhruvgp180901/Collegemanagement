@@ -5,10 +5,6 @@ The objective of College and Student Management System is to connect daily opera
 It facilitates keeping all the information of students such as their id, name, e-mail, date of birth, mark-sheet, subjects, attendance  etc.
 
 It also keeps the record of professors such as their name, id, e-mail, subjects, attendance sheet  etc. They can also record the attendance of the students attending their subjects.
-
-
-    git clone https://github.com/dhruvgp180901/Collegemanagement.git
-    cd Collegemanagement
     
 # Getting Started
 
@@ -24,7 +20,8 @@ It also keeps the record of professors such as their name, id, e-mail, subjects,
     ./venv/scripts/activate (for windows)
    
 ### Installation
-    git clone https://github.com/agarwal-megha21/College-and-Student-Management-System.git
+    
+    git clone https://github.com/dhruvgp180901/Collegemanagement.git
 
 ### Setup the database<br>
     In the following code replace \<USER> with any Username of your choice.<br>
